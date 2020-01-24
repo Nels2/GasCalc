@@ -1,23 +1,31 @@
-from selenium import webdriver
-from BeautifulSOup import BeautifulSoup
-import pandas as pd
+import requests
+import urllib.request
+import time
+from bs4 import BeautifulSoup
 
-driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
-products=[] #List to store name of the product
-prices=[] #List to store price of the product
-ratings=[] #List to store rating of the product
-driver.get("https://www.flipkart.com/laptops/~buyback-guarantee-on-laptops-/pr?sid=6bo%2Cb5g&uniq")
-content = driver.page_source
-soup = BeautifulSoup(content)
-for a in soup.findAll('a',href=True, attrs={'class':'_31qSD5'}):
-    name=a.find('div', attrs={'class':'_3wU53n'})
-    price=a.find('div', attrs={'class':'_1vC4OE _2rQ-NK'})
-    rating=a.find('div', attrs={'class':'hGSR34 _2beYZw'})
-    products.append(name.text)
-    prices.append(price.text)
-    ratings.append(rating.text) 
-df = pd.DataFrame({'Product Name':products,'Price':prices,'Rating':ratings}) 
-df.to_csv('products.csv', index=False, encoding='utf-8')
+#gas prcies near me
+url = 'https://www.autoblog.com/66801-gas-prices/'
+
+#connect to url and print if connected successfully.
+response = requests.get(url)
+print(response)
+
+#stores html and save bs4 objs.
+soup = BeautifulSoup(response.text, "html.parser")
 
 
-# more info at https://www.edureka.co/blog/web-scraping-with-python/
+# to download all data, this will loop through all a tags.
+for i in range(572,len(soup.findAll('a'))+1):
+    one_a_tag = soup.findAll('a')[i]
+    link = one_li_tag['href']
+    download_url = ''+ link
+    urllib.request.urlretrieve(download_url, './'+link[link.find('/66801-gas-prices/')+1:])
+    time.sleep(1) #pauses so i dont get banned or whatevrrs
+#soup.findAll('<a>')
+#one_li_tag = soup.findAll('<a>')[572]
+#link = one_li_tag =['href']
+#download_url = 'https://www.autoblog.com/66801-gas-prices/'+ link
+#urllib.request.urlretrieve(download_url,'./''link[link.find('/66801-gas-prices/')+1:])
+#time.sleep(1)
+print(soup)
+
