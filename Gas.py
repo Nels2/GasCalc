@@ -15,17 +15,35 @@ soup = BeautifulSoup(response.text, "html.parser")
 
 
 # to download all data, this will loop through all a tags.
-for i in range(572,len(soup.findAll('a'))+1):
-    one_a_tag = soup.findAll('a')[i]
-    link = one_li_tag['href']
-    download_url = ''+ link
+for i in range(572,len(soup.findAll('<li class="shops"'))+1):
+    one_a_tag = soup.findAll('value')[i]
+    link = one_li_tag['<ul class="details"']
+    link1 = two_li_tag['name']
+    download_url = '/66801-gas-prices/'+ link + link1
     urllib.request.urlretrieve(download_url, './'+link[link.find('/66801-gas-prices/')+1:])
     time.sleep(1) #pauses so i dont get banned or whatevrrs
+
+#below code is useless
+
 #soup.findAll('<a>')
 #one_li_tag = soup.findAll('<a>')[572]
 #link = one_li_tag =['href']
 #download_url = 'https://www.autoblog.com/66801-gas-prices/'+ link
 #urllib.request.urlretrieve(download_url,'./''link[link.find('/66801-gas-prices/')+1:])
 #time.sleep(1)
-print(soup)
 
+#end uselessness
+def main():
+
+
+    f = open("GasStationPrices.txt", "a+")
+   
+    for i in range(10):
+       f.write(str(soup.findAll))
+   
+    f.close()
+
+
+
+if __name__== "__main__":
+    main()
