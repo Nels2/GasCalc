@@ -33,6 +33,7 @@ for i in range(572,len(soup.findAll('<li class="shops"'))):
 #time.sleep(1)
 
 #end uselessness
+#the function "main()" makes the sraped data in the Gas station get printed onto a txt file. if there is not one there it is instead created. as of now it prints the WHOLE html doc..
 def main():
 
 
