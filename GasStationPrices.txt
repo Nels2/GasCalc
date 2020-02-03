@@ -1,4 +1,3 @@
-
 <bound method Tag.find_all of <!DOCTYPE html>
 
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -20,35 +19,35 @@
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -129,7 +128,7 @@
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -495,6 +494,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -567,7 +571,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -581,28 +585,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -616,14 +620,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -659,7 +663,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -681,7 +685,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -743,11 +747,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -787,9 +791,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -814,7 +818,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -858,7 +862,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -956,7 +960,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -1454,8 +1458,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -1707,9 +1711,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -1796,35 +1800,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -1905,7 +1909,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -2271,6 +2275,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -2343,7 +2352,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -2357,28 +2366,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -2392,14 +2401,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -2435,7 +2444,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -2457,7 +2466,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -2519,11 +2528,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -2563,9 +2572,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -2590,7 +2599,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -2634,7 +2643,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -2732,7 +2741,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -3230,8 +3239,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -3483,9 +3492,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -3572,35 +3581,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -3681,7 +3690,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -4047,6 +4056,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -4119,7 +4133,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -4133,28 +4147,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -4168,14 +4182,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -4211,7 +4225,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -4233,7 +4247,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -4295,11 +4309,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -4339,9 +4353,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -4366,7 +4380,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -4410,7 +4424,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -4508,7 +4522,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -5006,8 +5020,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -5259,9 +5273,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -5348,35 +5362,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -5457,7 +5471,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -5823,6 +5837,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -5895,7 +5914,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -5909,28 +5928,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -5944,14 +5963,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -5987,7 +6006,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -6009,7 +6028,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -6071,11 +6090,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -6115,9 +6134,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -6142,7 +6161,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -6186,7 +6205,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -6284,7 +6303,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -6782,8 +6801,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -7035,9 +7054,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -7124,35 +7143,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -7233,7 +7252,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -7599,6 +7618,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -7671,7 +7695,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -7685,28 +7709,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -7720,14 +7744,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -7763,7 +7787,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -7785,7 +7809,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -7847,11 +7871,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -7891,9 +7915,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -7918,7 +7942,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -7962,7 +7986,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -8060,7 +8084,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -8558,8 +8582,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -8811,9 +8835,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -8900,35 +8924,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -9009,7 +9033,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -9375,6 +9399,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -9447,7 +9476,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -9461,28 +9490,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -9496,14 +9525,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -9539,7 +9568,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -9561,7 +9590,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -9623,11 +9652,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -9667,9 +9696,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -9694,7 +9723,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -9738,7 +9767,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -9836,7 +9865,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -10334,8 +10363,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -10587,9 +10616,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -10676,35 +10705,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -10785,7 +10814,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -11151,6 +11180,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -11223,7 +11257,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -11237,28 +11271,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -11272,14 +11306,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -11315,7 +11349,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -11337,7 +11371,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -11399,11 +11433,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -11443,9 +11477,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -11470,7 +11504,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -11514,7 +11548,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -11612,7 +11646,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -12110,8 +12144,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -12363,9 +12397,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -12452,35 +12486,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -12561,7 +12595,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -12927,6 +12961,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -12999,7 +13038,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -13013,28 +13052,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -13048,14 +13087,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -13091,7 +13130,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -13113,7 +13152,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -13175,11 +13214,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -13219,9 +13258,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -13246,7 +13285,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -13290,7 +13329,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -13388,7 +13427,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -13886,8 +13925,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -14139,9 +14178,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -14228,35 +14267,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -14337,7 +14376,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -14703,6 +14742,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -14775,7 +14819,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -14789,28 +14833,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -14824,14 +14868,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -14867,7 +14911,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -14889,7 +14933,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -14951,11 +14995,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -14995,9 +15039,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -15022,7 +15066,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -15066,7 +15110,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -15164,7 +15208,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -15662,8 +15706,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -15915,9 +15959,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
@@ -16004,35 +16048,35 @@ function _getLib(src, onload) {
 <meta content="https://www.autoblog.com/66801-gas-prices/" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="og:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="og:image"/><meta content="summary_large_image" name="twitter:card"/>
 <meta content="@therealautoblog" name="twitter:site"/>
 <meta content="Gas Stations in 66801" name="twitter:title"/>
 <meta content="Find cheap gas prices in Kansas and at other local gas stations in nearby KS cities." property="twitter:description"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png" property="twitter:image"/><meta content="www.autoblog.com" name="twitter:domain"/>
 <meta content="6887c84cd868931aabb5e34d015812dc" name="p:domain_verify">
 <meta content="https://www.facebook.com/Autoblog" property="article:publisher">
 <meta content="f2nb3CQ8dfAyXWT5AruBr4cExteZAPdKi5tg6vPcnpY" name="google-site-verification">
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
-<link color="#e02222" href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-57x57.png?v=2.0.2" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-60x60.png?v=2.0.2" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-72x72.png?v=2.0.2" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-76x76.png?v=2.0.2" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-114x114.png?v=2.0.2" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-120x120.png?v=2.0.2" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-144x144.png?v=2.0.2" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-152x152.png?v=2.0.2" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/apple-touch-icon-180x180.png?v=2.0.2" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-32x32.png?v=2.0.2" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/android-chrome-192x192.png?v=2.0.2" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-96x96.png?v=2.0.2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon-16x16.png?v=2.0.2" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/manifest.json?v=2.0.2" rel="manifest"/>
+<link color="#e02222" href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/safari-pinned-tab.svg?v=2.0.2" rel="mask-icon"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/favicon.ico?v=2.0.2" rel="shortcut icon"/>
 <meta content="#000000" name="msapplication-TileColor"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
-<meta content="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
-<meta content="#000000" name="theme-color"/><link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/sub-v2017.min.css" rel="stylesheet"/>
-<link href="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/css/merge/auto-shops.min.css" rel="stylesheet"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/mstile-144x144.png?v=2.0.2" name="msapplication-TileImage"/>
+<meta content="/v/e807246c241cb366d36398e10207f45023913feb/img/favicon/browserconfig.xml?v=2.0.2" name="msapplication-config"/>
+<meta content="#000000" name="theme-color"/><link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/sub-v2017.min.css" rel="stylesheet"/>
+<link href="/v/e807246c241cb366d36398e10207f45023913feb/css/merge/auto-shops.min.css" rel="stylesheet"/>
 <style>@media(min-width: 768px) and (max-width: 992px){#ad-banner-btf {display: none;}.list_record #ad-banner-btf {display: none;}}</style>
 <meta content="false" name="oath:guce:product-eu">
 <meta content="guce.autoblog.com" name="oath:guce:consent-host">
@@ -16113,7 +16157,7 @@ function _getLib(src, onload) {
 	}
 ]</script>
 </meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
-<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="other" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
+<body class="PROD sub-v2017 cheap-gas-prices-listings " data-ab-comparesocialsolicitationplacement="test" data-ab-scarfstate="control" data-controller="autoShops" id="cheap-gas-prices-listings">
 <!--[if lt IE 10]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
 	<a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
@@ -16479,6 +16523,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </script>
 </section>
 </div>
+<div id="leader-bar">
+<div class="container">
+<a href="https://www.autoblog.com/2020/01/30/2020-technology-of-the-year-award//?icid=autoblog|leaderbar">🏆Kia wins Autoblog's Technology of the Year Award »</a>
+</div>
+</div>
 <div id="print-header">
 <svg alt="Autoblog" class="img-responsive lazy" data-original="/img/logos/autoblog_dark.png" height="99" width="425">
 <rect height="100%" style="fill: #ebedef;" width="100%"></rect>
@@ -16551,7 +16600,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/334812-kwik+shop+%23734+discount+available/"><h4>Kwik Shop #734 (discount Available)</h4><address>105 W 12th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.47">0.47 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.249">¤2.24</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="3">
@@ -16565,28 +16614,28 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/429383-downtown+stop+2+shop/"><h4>Downtown Stop 2 Shop</h4><address>423 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.81">0.81 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">3 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="5">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464891-scottys+mid+town/"><h4>Scottys Mid Town</h4><address>202 E 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="0.97">0.97 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.189">¤2.18</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="6">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/566189-murphy+oil+food+mart/"><h4>Murphy Oil Food Mart</h4><address>210 State Route 99 Olpe KS 66865</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.1">1.1 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="7">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/239550-emporia+bp/"><h4>Emporia Bp</h4><address>2102 W 6th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.31">1.31 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.219">¤2.21</data><time class="time">1 Day Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="8">
@@ -16600,14 +16649,14 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/464894-babi+and+company/"><h4>Babi And Company</h4><address>2628 W 18th Ave Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.44">1.44 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.259">¤2.25</data><time class="time">2 Days Ago</time></li>
 </ul>
 </li>
 <li class="shop" value="10">
 <ul class="details">
 <li class="name"><a href="/cheap-gas-prices/665424-mfa+oil+816892/"><h4>Mfa Oil 816892</h4><address>711 Anderson St Emporia KS 66801</address></a></li>
 <li class="dist"><data class="distance" unit="mile" value="1.45">1.45 miles</data></li>
-<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">1 Day Ago</time></li>
+<li class="slab price"><data class="price" currency="USD" value="2.239">¤2.23</data><time class="time">4 Days Ago</time></li>
 </ul>
 </li>
 </ol>
@@ -16643,7 +16692,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.229",
 					'regularPrice'  : "$2.229",
 					'midGradePrice' : "$2.349",
-					'premiumPrice'  : "$2.709",
+					'premiumPrice'  : "$2.469",
 					'dieselPrice'   : "$2.659",
 					
 
@@ -16665,7 +16714,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'price'         : "$2.249",
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$0.0",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.619",
 					'dieselPrice'   : "$0.0",
 					
 
@@ -16727,11 +16776,11 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.219",
-					'price'         : "$2.219",
-					'regularPrice'  : "$2.219",
+					'poiLabel'    	: "2.189",
+					'price'         : "$2.189",
+					'regularPrice'  : "$2.189",
 					'midGradePrice' : "$2.529",
-					'premiumPrice'  : "$0.0",
+					'premiumPrice'  : "$2.819",
 					'dieselPrice'   : "$2.599",
 					
 
@@ -16771,9 +16820,9 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'poiLabel'          : "",
 
 					
-					'poiLabel'    	: "2.259",
-					'price'         : "$2.259",
-					'regularPrice'  : "$2.259",
+					'poiLabel'    	: "2.219",
+					'price'         : "$2.219",
+					'regularPrice'  : "$2.219",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
 					'dieselPrice'   : "$0.0",
@@ -16798,7 +16847,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.249",
 					'midGradePrice' : "$2.549",
 					'premiumPrice'  : "$2.749",
-					'dieselPrice'   : "$2.699",
+					'dieselPrice'   : "$2.679",
 					
 
 					'name'          : "Circle K #1615",
@@ -16842,7 +16891,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 					'regularPrice'  : "$2.239",
 					'midGradePrice' : "$0.0",
 					'premiumPrice'  : "$0.0",
-					'dieselPrice'   : "$2.759",
+					'dieselPrice'   : "$2.729",
 					
 
 					'name'          : "Mfa Oil 816892",
@@ -16940,7 +16989,7 @@ ul#follow-mini li a.abicon-twitter:before { padding-top: 13px; }
 </a>
 </li>
 <li class="pinterest" data-shareservice="pinterest">
-<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
+<a class="popup" href="http://pinterest.com/pin/create/button/?media=/v/e807246c241cb366d36398e10207f45023913feb/img/autoblog-share_placeholder.png&amp;url={{url}}&amp;description={{title}}" rel="noopener" target="_blank">
 <span class="abicon abicon-pinterest3"></span>
 <span class="text">pinterest</span>
 <span class="count"></span>
@@ -17438,8 +17487,8 @@ AUTOBLOG.settings = {
     adBlockEnabled: false,
     adblockerAd: false,
 	apiUrl: '',
-	assetBase: '/v/679626f935d32caca61d7b58d3f54a68c6e6a3de',
-	buildKey: '679626f935d32caca61d7b58d3f54a68c6e6a3de',
+	assetBase: '/v/e807246c241cb366d36398e10207f45023913feb',
+	buildKey: 'e807246c241cb366d36398e10207f45023913feb',
     debug: false,
 	devId: 'ao1atoBLg0975R',
 	devmode: false,
@@ -17691,9 +17740,9 @@ function _getLib(src, onload) {
     document.head.appendChild(js);
 };
 </script>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/application/corelibs-min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/sub-v2017.min.js"></div>
-<div class="src-defer" data-script-src="/v/679626f935d32caca61d7b58d3f54a68c6e6a3de/js/merge/auto-shops.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/application/corelibs-min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/sub-v2017.min.js"></div>
+<div class="src-defer" data-script-src="/v/e807246c241cb366d36398e10207f45023913feb/js/merge/auto-shops.min.js"></div>
 <script>
 	
 
