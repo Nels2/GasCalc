@@ -1,7 +1,6 @@
 import requests
 import urllib.request
 import time
-import pandas as pd
 from bs4 import BeautifulSoup
 
 #gas prcies near me
@@ -17,13 +16,13 @@ soup = BeautifulSoup(response.text, "html.parser")
 
 # to download all data, this will loop through all a tags.
 soup.findAll('li', class_='shops')
-one_li_tag, one_lil_tag, one_il_tag = soup.findAll('ul' class_='details')
+one_li_tag = soup.findAll('ul', class_='details')
 link = one_li_tag =['slab price']
 link1 = one_lil_tag =['name']
 link2 = one_il_tag =['distance']
-download_url = 'https://www.autoblog.com/66801-gas-prices/'+ link + link1 + link2
-urllib.request.urlretrieve(download_url,'./''link[link.find('/66801-gas-prices/')+1:])
-time.sleep(3)
+download_url = 'https://www.autoblog.com/66801-gas-prices/'+ (str(list(link + link1 + link2))
+urllib.request.urlretrieve(download_url,'./' + link[link.find('/66801-gas-prices/')])
+time.sleep(30)
 #for i in range(572,len(soup.findAll('<li class="shops">'))):
     #one_a_tag = soup.findAll('"value"')[i]
    # link = one_li_tag['<ul class="details">']
