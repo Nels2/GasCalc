@@ -1,6 +1,7 @@
 import requests
 import urllib.request
 import time
+import pandas as pd
 from bs4 import BeautifulSoup
 
 #gas prcies near me
