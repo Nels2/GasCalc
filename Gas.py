@@ -15,13 +15,13 @@ soup = BeautifulSoup(response.text, "html.parser")
 
 
 # to download all data, this will loop through all a tags.
-for i in range(572,len(soup.findAll('<li class="shops"'))):
-    one_a_tag = soup.findAll('value')[i]
-    link = one_li_tag['<ul class="details"']
+for i in range(572,len(soup.findAll('<li class="shops">'))):
+    one_a_tag = soup.findAll('"value"')[i]
+    link = one_li_tag['<ul class="details">']
     link1 = two_li_tag['name']
     download_url = '/66801-gas-prices/'+ link + link1
     urllib.request.urlretrieve(download_url, './'+link[link.find('/66801-gas-prices/'):])
-    time.sleep(1) #pauses so i dont get banned or whatevrrs
+    time.sleep(5) #pauses so i dont get banned or whatevrrs
 
 #below code is useless
 
