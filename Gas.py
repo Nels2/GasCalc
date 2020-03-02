@@ -2,7 +2,6 @@ import requests
 import urllib.request
 import time
 from bs4 import BeautifulSoup
-
 #gas prcies near me
 url = 'https://www.autoblog.com/66801-gas-prices/'
 
@@ -14,22 +13,14 @@ print(response)
 soup = BeautifulSoup(response.text, "html.parser")
 
 
-# to download all data, this will loop through all a tags.
-soup.findAll('li', class_='shops')
-one_li_tag = soup.findAll('ul', class_='details')
-link = one_li_tag =['slab price']
-link1 = one_lil_tag =['name']
-link2 = one_il_tag =['distance']
-download_url = 'https://www.autoblog.com/66801-gas-prices/'+ (str(list(link + link1 + link2))
-urllib.request.urlretrieve(download_url,'./' + link[link.find('/66801-gas-prices/')])
-time.sleep(30)
-#for i in range(572,len(soup.findAll('<li class="shops">'))):
-    #one_a_tag = soup.findAll('"value"')[i]
-   # link = one_li_tag['<ul class="details">']
-   # link1 = two_li_tag['name']
-    #download_url = '/66801-gas-prices/'+ link + link1
-  #  urllib.request.urlretrieve(download_url, './'+link[link.find('/66801-gas-prices/'):])
-   # time.sleep(5) #pauses so i dont get banned or whatevrrs
+# to download all data, this will loop through all a tags
+for i in range(572,len(soup.findAll('<li class="shops">'))):
+    one_a_tag = soup.findAll('value')[i]
+    link = one_li_tag['details']
+    link1 = two_li_tag['name']
+    download_url = '/66801-gas-prices/'+ link + link1
+    urllib.request.urlretrieve(download_url, './'+link[link.find('/66801-gas-prices/'):])
+    time.sleep(5) #pauses so i dont get banned or whatevrrs
 
 #below code is useless
 
